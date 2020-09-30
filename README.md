@@ -1,1 +1,1 @@
-![capture](../img/capture.png)
+![capture](../img/Capture.PNG)
